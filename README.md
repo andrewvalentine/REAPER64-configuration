@@ -2,6 +2,8 @@
 
 This repository provides the materials required to build a package to install a script that configures REAPER64.
 
+I'm a Python novice, so much of the credit here goes to Stack Overflow and Tim Sutton on the #MacAdmins Slack Team.
+
 ## Notes
 
 * This package delivers a script that is intended to be run at login via [Outset](https://github.com/chilcote/outset). If you are not using Outset, you will need to determine an alternative method of running login scripts as the authenticating user.
